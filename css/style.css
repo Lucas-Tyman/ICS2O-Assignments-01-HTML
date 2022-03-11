@@ -1,0 +1,19 @@
+/* Created by: Lucas Tyman
+ * Created on: Mar 2022
+ * This CSS file defines the style for index.html ICS2O-Assignments-01-HTML
+*/
+
+body {
+  background-color: gray;
+}
+
+h1 {
+  background-color: rgb(100, 0, 255);
+  color: hsl(147deg 50% 47%);
+  padding: 40px;
+  text-align: left;
+}
+
+p {
+  background-color: #ededed;
+}
